@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_hub_flow">
+    <sys_hub_flow action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <active>false</active>
+        <annotation/>
+        <category/>
+        <copied_from/>
+        <copied_from_name/>
+        <description>Flow to test custom action.</description>
+        <internal_name>action_test_flow`</internal_name>
+        <label_cache>[{"name":"d2edb6b9-3e31-45b2-b514-87a832a2db61.property_value","label":"1➛Property value","reference_display":"Property value","type":"string","base_type":"string"},{"name":"63349509-8920-482a-8d22-2fc5a845c322.property_value","label":"1➛Property value","reference_display":"Property value","type":"string","base_type":"string"}]</label_cache>
+        <latest_snapshot/>
+        <master_snapshot/>
+        <name>Action Test Flow`</name>
+        <outputs/>
+        <remote_trigger_id/>
+        <sc_callable>false</sc_callable>
+        <show_draft_actions>true</show_draft_actions>
+        <show_triggered_flows>false</show_triggered_flows>
+        <status>draft</status>
+        <sys_class_name>sys_hub_flow</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-12-02 23:27:43</sys_created_on>
+        <sys_id>39089647db0623005357da75ca9619cb</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Action Test Flow`</sys_name>
+        <sys_package display_value="NeedIt Spoke" source="x_271208_needit_sp">6ec19e07db0623005357da75ca9619aa</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt Spoke">6ec19e07db0623005357da75ca9619aa</sys_scope>
+        <sys_update_name>sys_hub_flow_39089647db0623005357da75ca9619cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-12-04 06:19:55</sys_updated_on>
+        <type>flow</type>
+    </sys_hub_flow>
+    <sys_translated_text action="delete_multiple" query="documentkey=39089647db0623005357da75ca9619cb"/>
+    <sys_variable_value action="delete_multiple" query="document_key=39089647db0623005357da75ca9619cb"/>
+</record_update>
